@@ -73,7 +73,7 @@ To fill the remaining 4 inches of floor space in front of the heated pad, I fitt
 
 The camera I use is a [cheap Wifi device](https://a.co/d/iy7VOdG), mounted on the inside wall using special-purpose [brackets](https://a.co/d/dUVt9Q1). On the camera, the status light should be turned off to keep the inside of the house dark.
 
-I drilled a hole in the bottom of the house to route the cables for heated pad and camera. The hole is under the heated pad which effectively seals it up.
+I cut a hole in the bottom of the house to route the cables for heated pad and camera. The hole is under the heated pad which effectively seals it up.
 
 ![Inside view](Pictures/IMG_0623.jpeg)
 
