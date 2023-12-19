@@ -20,7 +20,7 @@ After completing the build, I came across an article called "[The Myth of the Em
 
 Alley Cat Allies has a [great list](https://www.alleycat.org/resources/feral-cat-shelter-options-gallery/) of various ready-made houses, as well as available DIY plans out there. They list the pros and cons for each.
 
-In particular, Domino's house most resembles the FIVER plans. Check out [their website](http://www.fivercats.com) for a very detailed plan as well as videos on how to build their version.
+In particular, Domino's house most closely resembles the FIVER plans. Check out [their website](http://www.fivercats.com) for a very detailed plan as well as videos on how to build their version.
 
 The inside of the Domino's house is 18" x 18" and 16" high in the front / 13" high in the back. This size seems to work great for one cat.
 
