@@ -32,9 +32,9 @@ The house can be built from a single 4' x 8' sheet of 3/4 inch stock -- I used e
 
 ## Digital plans
 
-I made my plans using the CAD software [SketchUp](https://www.sketchup.com). Users of SketchUp can [download the file](FeralCatHouse.skp) to look at / modify in the computer. For everyone else, please see the detailed schematics in the [Views folder](Views).
+I made my plans using the CAD software [SketchUp](https://www.sketchup.com). Users of SketchUp can [download the file](FeralCatHouse.skp) to look at / modify on the computer. For everyone else, please see the detailed schematics & diagrams in the [Views folder](Views).
 
-There's also a [Cutlist.pdf](Cutlist.pdf) which shows how the panels are laid out on a 4' x 8' sheet (cut into three 32" sections which is how I usually handle sheetgoods in my small shop).
+There's also a [Cutlist.pdf](Cutlist.pdf) which shows how the panels are laid out on a 4' x 8' sheet (cut into three 32" sections which is how I usually handle sheetgoods in my small shop). I used [Cutlist Optimizer](https://www.cutlistoptimizer.com) to create the cutlist.
 
 
 ## Building tips
