@@ -2,7 +2,7 @@
 
 ![Front view of Domino's House](Pictures/IMG_0609.jpg)
 
-##Criteria & Resources
+## Criteria & Resources 
 
 Before making my plans, I researched a lot of literature about feral cat shelters. Based on that research, I wanted to incorporate the following elements:
 * Elevated platform
