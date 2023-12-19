@@ -82,6 +82,6 @@ I cut a hole in the bottom of the house to route the cables for heated pad and c
 
 So far I haven't found a lot that I would do differently were I to build more of these shelters.
 
-I suppose that these plans could be considered "overbuilt / overdesigned" in that cats will gladly use any "box" that keeps them safe, dry and warm. They don't care about their house having tidy trim and a nice paint job, etc. I do care about that though, so I went to the extra mile to build something that's nice to look at.
+I suppose that these plans could be considered "overbuilt / overdesigned" in that cats will gladly use any "box" that keeps them safe, dry and warm. They don't care about their house having tidy trim and a nice paint job. I do care about that though, so I went to the extra mile to build something that's nice to look at.
 
 For larger colonies perhaps doubling / tripling etc. the width of the box could be interesting for housing more than one cat at once.
