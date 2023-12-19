@@ -66,7 +66,7 @@ I use an [outdoor heated pad](https://a.co/d/8YKrEVJ) that's exactly 18 in wide,
 
 To fill the remaining 4 inches of space in front of the heated pad, I fitted [two small pillows](https://a.co/d/fkmR5th).
 
-The camera I use is a [cheap Yi device](https://a.co/d/iy7VOdG), mounted on the inside wall using special-purpose [brackets](https://a.co/d/dUVt9Q1).
+The camera I use is a [cheap Wifi device](https://a.co/d/iy7VOdG), mounted on the inside wall using special-purpose [brackets](https://a.co/d/dUVt9Q1).
 
 I drilled a hole in the bottom of the house to route the cables for heated pad and camera. The hole is under the heated pad which effectively seals it up.
 
