@@ -57,7 +57,7 @@ The house is attached to the platform using four simple L-brackets.
 
 Note that I built the platform from pressure-treated lumber that has been hanging out in the scrap pile for something like a year, ie. it was dry and ready to paint. When it comes from the store, pressure-treated lumber is usually very wet and not paintable without significant drying time. I'd have skipped painting the platform altogether had I not had dry pressure-treated lumber ready to go.
 
-The roof hinges are attached at the back panel of the house, though this is a matter of taste, the hinges could be on any side.
+The roof hinges were attached at the back panel of the house, though this is a matter of taste, the hinges could be placed on either side.
 
 Though the roof is heavy, I still think it could be blown open by strong wind gusts, so it needs to be secured in place on the side opposite of the hinges. I used two hook-and-eye latches on either corner of the house.
 
