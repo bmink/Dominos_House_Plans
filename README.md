@@ -47,7 +47,11 @@ If the house is exposed to precipitation then I recommend weatherproofing the ro
 
 After basic construction and before painting, I caulked all seams between the trim and the main body to maximize weatherproofing.
 
+![Caulked Seams](Pictures/IMG_1377.png)
+
 The platform held together by 2-1/2 in construction screws.
+
+![Platform](Pictures/IMG_0552.jpeg)
 
 The house is attached to the platform using four simple L-brackets.
 
