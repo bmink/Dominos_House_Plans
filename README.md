@@ -49,7 +49,7 @@ After basic construction and before painting, all seams between the trim and the
 
 ![Caulked Seams](Pictures/IMG_1377.png)
 
-The platform held together by 2-1/2 in construction screws.
+The platform is held together by 2-1/2 in construction screws.
 
 ![Platform](Pictures/IMG_0552.jpeg)
 
