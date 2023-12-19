@@ -55,7 +55,7 @@ The platform is held together by 2-1/2 in construction screws.
 
 The house is attached to the platform using four simple L-brackets.
 
-Note that I built the platform from pressure-treated lumber that has been hanging out in my shop's scrap pile for something like a year, ie. it was dry and ready to paint. When it comes from the store, pressure-treated lumber is usually very wet and not paintable without significant drying time. I'd have probably skipped painting the platform altogether had I not had dry pressure-treated lumber ready to go.
+Note that I built the platform from pressure-treated lumber that has been hanging out in the scrap pile for something like a year, ie. it was dry and ready to paint. When it comes from the store, pressure-treated lumber is usually very wet and not paintable without significant drying time. I'd have skipped painting the platform altogether had I not had dry pressure-treated lumber ready to go.
 
 The roof hinges are attached at the back panel of the house, though this is a matter of taste, the hinges could be on any side.
 
