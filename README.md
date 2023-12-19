@@ -61,7 +61,7 @@ The roof hinges are attached at the back panel of the house, though this is a ma
 
 Though the roof is heavy, I still think it could be blown open by strong wind gusts, so it needs to be secured in place on the side opposite of the hinges. I used two hook-and-eye latches on either corner of the house.
 
-I also added 1/4 in. [weather stripping](https://a.co/d/60jw5ea) between the house and the roof for a bit of cushioning.
+I also added 1/4 in. [weather stripping](https://a.co/d/60jw5ea) between the house and the roof for a better seal and bit of cushioning.
 
 ## Inside the house
 
