@@ -14,7 +14,7 @@ Before making my plans, I read a lot of the literature on feral cat shelters. Ba
 * Perch
 * Hinged, openable roof for easy cleaning & repairs
 
-We are in San Francisco, California, where temperatures don't drop enough that insulation, door flaps or straw bedding would become necessary.
+We are in San Francisco, California, where temperatures don't drop enough that extra insulation, door flaps or straw bedding would become necessary.
 
 After completing the build, I came across an article called "[The Myth of the Emergency Exit](https://feralvilla-com.3dcartstores.com/The-Myth-of-the-Emergency-Exit_ep_43.html)" on Feral Villa that questions the need for two exits. I think that this is something to potentially further think about, especially in cold climates where two exits will increase the challenge of keeping the inside of the house warm.
 
