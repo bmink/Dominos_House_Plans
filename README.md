@@ -52,6 +52,8 @@ The house is attached to the platform using four simple L-brackets.
 
 The roof hinges are attached at the back panel of the house, though this is a matter of taste, the hinges could be on any side.
 
+I added 1/4 in weather stripping between the house and the roof.
+
 
 ## Inside the house
 
@@ -62,3 +64,5 @@ To fill the remaining 4 inches of space in front of the heated pad, I fitted [tw
 The camera I use is a [cheap Yi device](https://a.co/d/iy7VOdG), mounted on the inside wall using special-purpose [brackets](https://a.co/d/dUVt9Q1).
 
 I drilled a hole in the bottom of the house to route the cables for heated pad and camera. The hole is under the heated pad which effectively seals it up.
+
+![Inside view](Pictures/IMG_0623.jpeg)
