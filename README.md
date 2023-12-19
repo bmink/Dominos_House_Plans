@@ -59,8 +59,9 @@ Note that I built the platform from pressure-treated lumber that has been hangin
 
 The roof hinges are attached at the back panel of the house, though this is a matter of taste, the hinges could be on any side.
 
-I added 1/4 in weather stripping between the house and the roof.
+Though the roof is heavy, I still think it could be blown open by strong wind gusts, so it needs to be secured in place on the side opposite of the hinges. I used two hook-and-eye latches on either corner of the house.
 
+I also added 1/4 in. [weather stripping](https://a.co/d/60jw5ea) between the house and the roof for a bit of cushioning.
 
 ## Inside the house
 
@@ -75,3 +76,12 @@ The camera I use is a [cheap Wifi device](https://a.co/d/iy7VOdG), mounted on th
 I drilled a hole in the bottom of the house to route the cables for heated pad and camera. The hole is under the heated pad which effectively seals it up.
 
 ![Inside view](Pictures/IMG_0623.jpeg)
+
+
+## Conclusion
+
+So far I haven't found a lot that I would do differently were I to build more of these shelters.
+
+I suppose that these plans could be considered "overbuilt / overdesigned" in that cats will gladly use any "box" that keeps them safe, dry and warm. They don't care about their house having tidy trim and a nice paint job, etc. I do care about that though, so I went to the extra mile to build something that's nice to look at.
+
+For larger colonies perhaps doubling / tripling etc. the width of the box could be interesting for housing more than one cat at once.
