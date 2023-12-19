@@ -62,7 +62,7 @@ I added 1/4 in weather stripping between the house and the roof.
 
 ## Inside the house
 
-I use an [outdoor heated pad](https://a.co/d/8YKrEVJ) that's exactly 18 in wide, so fits perfectly. 
+I use an [outdoor heated pad](https://a.co/d/8YKrEVJ) that's exactly 18 in wide, so it fits perfectly. 
 
 To fill the remaining 4 inches of space in front of the heated pad, I fitted [two small pillows](https://a.co/d/fkmR5th).
 
