@@ -6,7 +6,7 @@ Plans for Domino's house has been a frequent request, so I'm providing whatever 
 
 ## Criteria & Resources 
 
-Before making my plans, I researched a lot of the literature on feral cat shelters. Based on that research, I wanted to incorporate the following elements:
+Before making my plans, I read a lot of the literature on feral cat shelters. Based on that research, I wanted to incorporate the following elements:
 
 * Elevated platform
 * Two exits (provides an emergency exit in case of an intruder)
