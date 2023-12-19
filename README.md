@@ -6,7 +6,8 @@ Plans for Domino's house has been a frequent request, so I'm providing whatever 
 
 ## Criteria & Resources 
 
-Before making my plans, I researched a lot of literature about feral cat shelters. Based on that research, I wanted to incorporate the following elements:
+Before making my plans, I researched a lot of the literature on feral cat shelters. Based on that research, I wanted to incorporate the following elements:
+
 * Elevated platform
 * Two exits (provides an emergency exit in case of an intruder)
 * Sloping roof (for rain runoff)
@@ -17,17 +18,17 @@ We are in San Francisco, California, where temperatures don't drop enough that i
 
 After completing the build, I came across an article called "[The Myth of the Emergency Exit](https://feralvilla-com.3dcartstores.com/The-Myth-of-the-Emergency-Exit_ep_43.html)" on Feral Villa that questions the need for two exits. I think that this is something to potentially further think about, especially in cold climates where two exits will increase the challenge of keeping the inside of the house warm.
 
-Alley Cat Allies has a [great list](https://www.alleycat.org/resources/feral-cat-shelter-options-gallery/) of various ready-made houses, as well as DIY plans out there. They list the pros and cons for each.
+Alley Cat Allies has a [great list](https://www.alleycat.org/resources/feral-cat-shelter-options-gallery/) of various ready-made houses, as well as available DIY plans out there. They list the pros and cons for each.
 
 In particular, Domino's house most resembles the FIVER plans. Check out [their website](http://www.fivercats.com) for a very detailed plan as well as videos on how to build their version.
 
-THe inside of the house is 18" x 18"; 16" high in the front and 13" high in the back. This size seems to work great for one cat.
+The inside of the Domino's house is 18" x 18" and 16" high in the front / 13" high in the back. This size seems to work great for one cat.
 
 ![Domino in the house](Pictures/IMG_1376.jpeg)
 
 ## Materials
 
-The house can be built from a single 4' x 8' sheet of 3/4 inch stock -- I used exterior grad OSB ($30 as of November 2023). If trim is added, then any 3/4" material can be used for that -- I used scrap "one-by" pine boards I had laying around. The elevated platform is constructed from pressure-treated 2x4s (for the apron) and 4x4s (for the legs), which I also used scrap for. If I'd buy the material new, I'd probably use 2x2s for the legs as well to make things a bit cheaper and easier to handle.
+The house can be built from a single 4' x 8' sheet of 3/4 inch stock -- I used exterior grade OSB ($30 as of November 2023). If trim is added, then any 3/4" material can be used for that -- I used scrap "one-by" pine boards I had laying around. The elevated platform is constructed from pressure-treated 2x4s (for the apron) and 4x4s (for the legs), which I also used scrap for. If I'd buy the pressure-treated boards new, I'd probably use 2x2s for the legs as well to make things a bit cheaper and easier to handle.
 
 ## Digital plans
 
