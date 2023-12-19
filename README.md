@@ -43,7 +43,7 @@ The main body is little more than a regular box that you can construct with the 
 
 Trim generally is 1-1/2 in. wide, except at the bottom of the sides and back where it also covers the bottom panel (so is 2-1/4 in. wide). Trim is attached with glue + brad nails.
 
-If the house is exposed to precipitation then I recommend weatherproofing the room. My original plan was to add a corrugated panel on top of the roof. Ultimately we decided to put the house in a sheltered area underneath an overhang so that became unnecessary for now.
+If the house is exposed to precipitation then I recommend weatherproofing the roof. My original plan was to add a corrugated panel on top of the roof. Ultimately we decided to put the house in a sheltered area underneath an overhang so that became unnecessary for now.
 
 After basic construction and before painting, I caulked all seams between the trim and the main body to maximize weatherproofing.
 
