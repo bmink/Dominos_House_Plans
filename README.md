@@ -28,7 +28,7 @@ The inside of Domino's house is 18" x 18" and 16" high in the front / 13" high i
 
 ## Materials
 
-The house can be built from a single 4' x 8' sheet of 3/4 inch material -- I used exterior grade OSB ($30 as of November 2023). If trim is added, then any 3/4" material can be used for that -- I used scrap "one-by" pine boards I had laying around. The elevated platform is constructed from pressure-treated 2x4s (for the apron) and 4x4s (for the legs), which I also used scrap for. If I'd buy the pressure-treated boards new, I'd probably use 2x2s for the legs as well to make things a bit cheaper and easier to handle.
+The house can be built from a single 4' x 8' sheet of 3/4 inch material -- I used exterior grade OSB ($30 as of November 2023). Any suitable 3/4" material can be used for trim -- I used scrap "one-by" pine boards I had laying around. The elevated platform is constructed from pressure-treated 2x4s (for the apron) and 4x4s (for the legs), which I also used scrap for. If I'd buy the pressure-treated boards new, I'd probably use 2x2s for the legs as well to make things a bit cheaper and easier to handle.
 
 ## Digital plans
 
