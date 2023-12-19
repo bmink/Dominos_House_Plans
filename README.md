@@ -68,7 +68,7 @@ I added 1/4 in weather stripping between the house and the roof.
 
 I use an [outdoor heated pad](https://a.co/d/8YKrEVJ) that's exactly 18 in wide, so it fits perfectly. 
 
-To fill the remaining 4 inches of space in front of the heated pad, I fitted [two small pillows](https://a.co/d/fkmR5th).
+To fill the remaining 4 inches of floor space in front of the heated pad, I fitted [two small pillows](https://a.co/d/fkmR5th).
 
 The camera I use is a [cheap Wifi device](https://a.co/d/iy7VOdG), mounted on the inside wall using special-purpose [brackets](https://a.co/d/dUVt9Q1). On the camera, the status light should be turned off to keep the inside of the house dark.
 
