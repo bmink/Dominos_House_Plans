@@ -22,7 +22,7 @@ Alley Cat Allies has a [great list](https://www.alleycat.org/resources/feral-cat
 
 In particular, Domino's house most closely resembles the FIVER plans. Check out [their website](http://www.fivercats.com) for a very detailed plan as well as videos on how to build their version.
 
-The inside of the Domino's house is 18" x 18" and 16" high in the front / 13" high in the back. This size seems to work great for one cat.
+The inside of Domino's house is 18" x 18" and 16" high in the front / 13" high in the back. This size seems to work great for one cat.
 
 ![Domino in the house](Pictures/IMG_1376.jpeg)
 
