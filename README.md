@@ -39,7 +39,7 @@ There's also a [Cutlist.pdf](Cutlist.pdf) which shows how the panels can be opti
 
 ## Building tips
 
-The main body is little more than a regular box that you can construct with the joinery method of your choice (I used biscuits & exterior wood glue). The slope of the roof is ~9 degrees, so set your blade to that angle to cut the tops of the front and back panels (and trim).
+The main body is little more than a regular box that you can construct with the joinery method of your choice (I used my biscuit joiner & exterior wood glue). The slope of the roof is ~9 degrees, so set your blade to that angle to cut the tops of the front and back panels (and trim).
 
 Trim generally is 1-1/2 in. wide, except at the bottom of the sides and back where it also covers the bottom panel (so is 2-1/4 in. wide). Trim is attached with glue + brad nails.
 
