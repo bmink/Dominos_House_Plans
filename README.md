@@ -2,7 +2,7 @@
 
 ![Front view of Domino's House](Pictures/IMG_0609.jpg)
 
-Plans for Domino's house has been a frequent request, so I'm providing whatever info I can here, free of charge. While these are not full step-by-step instructions, any woodworker of at least intermediate level should be able to look at the provided pictures, diagrams and text and build something similar.
+Plans for Domino's house has been a frequent request, so I'm providing whatever info I can here, free of charge. While these are not full step-by-step instructions, any woodworker of some experience should be able to look at the provided pictures, diagrams and text and build something similar.
 
 ## Criteria & Resources 
 
