@@ -44,7 +44,7 @@ Trim generally is 1-1/2 in. wide, except at the bottom of the sides and back whe
 
 If the house is exposed to precipitation then I recommend weatherproofing the room. My original plan was to add a corrugated panel on top of the roof. Ultimately we decided to put the house in a sheltered area underneath an overhang so that became unnecessary for now.
 
-After basic construction and before painting I caulked all exposed seams to maximize weatherproofing.
+After basic construction and before painting, I caulked all seams between the trim and the main body to maximize weatherproofing.
 
 The platform held together by 2-1/2 in construction screws.
 
@@ -55,3 +55,10 @@ The roof hinges are attached at the back panel of the house, though this is a ma
 
 ## Inside the house
 
+I use an [outdoor heated pad](https://a.co/d/8YKrEVJ) that's exactly 18 in wide, so fits perfectly. 
+
+To fill the remaining 4 inches of space in front of the heated pad, I fitted [two small pillows](https://a.co/d/fkmR5th).
+
+The camera I use is a [cheap Yi device](https://a.co/d/iy7VOdG), mounted on the inside wall using special-purpose [brackets](https://a.co/d/dUVt9Q1).
+
+I drilled a hole in the bottom of the house to route the cables for heated pad and camera. The hole is under the heated pad which effectively seals it up.
