@@ -10,7 +10,7 @@ Before making my plans, I researched a lot of the literature on feral cat shelte
 
 * Elevated platform
 * Two exits (provides an emergency exit in case of an intruder)
-* Sloping roof (for rain runoff)
+* Sloped roof (for rain runoff)
 * Perch
 * Hinged, openable roof for easy cleaning & repairs
 
