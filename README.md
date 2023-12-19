@@ -45,7 +45,7 @@ Trim generally is 1-1/2 in. wide, except at the bottom of the sides and back whe
 
 If the house is exposed to precipitation then I recommend weatherproofing the roof. My original plan was to add a corrugated panel on top of the roof. Ultimately we decided to put the house in a sheltered area underneath an overhang so that became unnecessary for now.
 
-After basic construction and before painting, all seams between the trim and the main body were caulked to maximize weatherproofing.
+After basic construction and before painting, all seams between the trim and the main body were caulked.
 
 ![Caulked Seams](Pictures/IMG_1377.png)
 
